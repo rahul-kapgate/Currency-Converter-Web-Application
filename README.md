@@ -23,7 +23,4 @@ No installation is required to use this web application. Simply open the index.h
 Contributing
 Contributions are welcome! If you find any bugs or have suggestions for improvement, feel free to open an issue or submit a pull request.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
-You can customize this description to fit the specific details and features of your currency converter web application.
